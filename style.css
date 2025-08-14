@@ -40,7 +40,10 @@ body::before {
     position: relative;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 06cac7b4f4fa21a34017480c1445b470141e37c0
 .container__contenido {
     display: flex;
     align-items: center;
@@ -50,7 +53,11 @@ body::before {
 
 .container__informaciones {
     flex: 1;
+<<<<<<< HEAD
     padding: 3rem;
+=======
+    padding: 20px;
+>>>>>>> 06cac7b4f4fa21a34017480c1445b470141e37c0
 }
 
 .container__boton {
@@ -61,11 +68,15 @@ body::before {
     font-size: 24px;
     font-weight: 700;
     border: none;
+<<<<<<< HEAD
     margin-top: 2rem;
 }
 
 .container__boton:disabled {
     background: #898989;
+=======
+    margin-top: 16px;
+>>>>>>> 06cac7b4f4fa21a34017480c1445b470141e37c0
 }
 
 .container__texto {
@@ -76,6 +87,7 @@ body::before {
     color: #1875E8;
 }
 
+<<<<<<< HEAD
 .container__input {
     width: 100%;
     height: 72px;
@@ -100,12 +112,24 @@ h1 {
     padding-bottom: 3rem;
 }
 
+=======
+h1 {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 72px;
+}
+
+h2,
+>>>>>>> 06cac7b4f4fa21a34017480c1445b470141e37c0
 p,
 button {
     font-family: 'Inter', sans-serif;
 }
 
+<<<<<<< HEAD
 .texto__parrafo {
+=======
+h2 {
+>>>>>>> 06cac7b4f4fa21a34017480c1445b470141e37c0
     font-size: 32px;
     font-weight: 400;
 }
